@@ -1,6 +1,13 @@
 ---
 seo:
   title: Home
+galleryImages:
+  - image: /content/media/silveraward.jpg
+    imgDesc: image 1 descript
+    imgTitle: Galleryimg1
+  - image: /content/media/bronzeaward.jpg
+    imgDesc: img2
+    imgTitle: galleryimg2
 content:
   - featured_image: /content/media/ourmission.jpg
     title: Our Mission
