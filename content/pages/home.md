@@ -8,15 +8,11 @@ galleryImages:
   - image: /content/media/bronzeaward.jpg
     imgDesc: img2
     imgTitle: galleryimg2
-Events:
+events:
   - eventDate: '2018-06-29'
-    eventDescription: 'THE BRONZE AWARD EVENT '
-    eventImage: /content/media/thevenue.jpg
-    eventTitle: 'BRONZE AWARD LONDON IRISH '
-  - eventDate: '2018-06-29'
-    eventDescription: 'SILVER AWARD EVENT '
-    eventImage: /content/media/silveraward.jpg
-    eventTitle: 'SILVER AWARD LONDON IRISH '
+    eventDescription: 'GOLD AWARD, TWICKENHAM'
+    eventImage: /content/media/goldaward.jpg
+    eventTitle: BRONZE AWARD
 content:
   - featured_image: /content/media/ourmission.jpg
     title: Our Mission
