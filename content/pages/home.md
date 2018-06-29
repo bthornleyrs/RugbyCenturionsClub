@@ -13,6 +13,14 @@ events:
     eventDescription: 'GOLD AWARD, TWICKENHAM'
     eventImage: /content/media/goldaward.jpg
     eventTitle: BRONZE AWARD
+  - eventDate: '2018-06-29'
+    eventDescription: 'GOLDEN EVENT '
+    eventImage: /content/media/aboutus.jpg
+    eventTitle: Another Event
+  - eventDate: '2018-06-29'
+    eventDescription: MORE EVENTS !
+    eventImage: /content/media/goldaward.jpg
+    eventTitle: 'ANOTHER EVENT '
 content:
   - featured_image: /content/media/ourmission.jpg
     title: Our Mission
