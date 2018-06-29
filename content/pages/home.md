@@ -13,6 +13,10 @@ Events:
     eventDescription: 'THE BRONZE AWARD EVENT '
     eventImage: /content/media/thevenue.jpg
     eventTitle: 'BRONZE AWARD LONDON IRISH '
+  - eventDate: '2018-06-29'
+    eventDescription: 'SILVER AWARD EVENT '
+    eventImage: /content/media/silveraward.jpg
+    eventTitle: 'SILVER AWARD LONDON IRISH '
 content:
   - featured_image: /content/media/ourmission.jpg
     title: Our Mission
