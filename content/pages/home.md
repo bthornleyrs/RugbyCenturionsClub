@@ -8,6 +8,11 @@ galleryImages:
   - image: /content/media/bronzeaward.jpg
     imgDesc: img2
     imgTitle: galleryimg2
+Events:
+  - eventDate: '2018-06-29'
+    eventDescription: 'THE BRONZE AWARD EVENT '
+    eventImage: /content/media/thevenue.jpg
+    eventTitle: 'BRONZE AWARD LONDON IRISH '
 content:
   - featured_image: /content/media/ourmission.jpg
     title: Our Mission
