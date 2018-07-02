@@ -71,11 +71,5 @@ content:
 
 
       Ages 13-16
-  - rightfeatured_image: /content/media/ourmission.jpg
-    title: Platinum Award
-    body: >-
-      Platinum AwardPlatinum AwardPlatinum AwardPlatinum AwardPlatinum
-      AwardPlatinum AwardPlatinum AwardPlatinum AwardPlatinum AwardPlatinum
-      AwardPlatinum AwardPlatinum Award
 ---
 
