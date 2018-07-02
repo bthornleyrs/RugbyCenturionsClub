@@ -8,6 +8,12 @@ galleryImages:
   - image: /content/media/bronzeaward.jpg
     imgDesc: img2
     imgTitle: galleryimg2
+  - image: /content/media/white_t-shirt_front_1024x1024.jpg
+    imgDesc: asdf
+    imgTitle: dfas
+  - image: /content/media/goldaward.jpg
+    imgDesc: asdfdsfa
+    imgTitle: fads
 events:
   - eventDate: '2018-06-29'
     eventDescription: 'GOLD AWARD, TWICKENHAM'
