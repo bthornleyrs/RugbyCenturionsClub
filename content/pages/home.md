@@ -2,8 +2,10 @@
 seo:
   title: Home
 googlemap:
-  - MapDescription: '500 Terry Francois Street San Francisco, CA 94158'
-    MapTitle: Our Location
+  - MapDescription: 'The first bronze award event at twickenham '
+    MapLatitude: '0.3415'
+    MapLongitude: '51.4559'
+    MapTitle: 'Bronze Award, Twickenham'
 galleryImages:
   - image: /content/media/silveraward.jpg
     imgDesc: image 1 descript
