@@ -3,8 +3,8 @@ seo:
   title: Home
 googlemap:
   - MapDescription: 'The first bronze award event at twickenham '
-    MapLatitude: '51.453664852'
-    MapLongitude: '-0.33833198'
+    MapLatitude: '51.456218'
+    MapLongitude: '-0.341701'
     MapTitle: 'Bronze Award, Twickenham'
 galleryImages:
   - image: /content/media/silveraward.jpg
