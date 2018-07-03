@@ -1,6 +1,9 @@
 ---
 seo:
   title: Home
+googlemap:
+  - MapDescription: a map
+    MapTitle: firstMap
 galleryImages:
   - image: /content/media/silveraward.jpg
     imgDesc: image 1 descript
