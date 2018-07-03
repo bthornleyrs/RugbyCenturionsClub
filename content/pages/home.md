@@ -2,8 +2,8 @@
 seo:
   title: Home
 googlemap:
-  - MapDescription: a map
-    MapTitle: firstMap
+  - MapDescription: '500 Terry Francois Street San Francisco, CA 94158'
+    MapTitle: Our Location
 galleryImages:
   - image: /content/media/silveraward.jpg
     imgDesc: image 1 descript
